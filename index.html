@@ -6,6 +6,8 @@
   <meta name="keywords" content="Biblia, Anime, Cosas random, fanfiction, crossover">
   <meta name="author" content="Lolifan-sensei-sama y Oppaiyanki-sensei-sama">
 </head>
+<body background="fondo2.jpg" link="#0070C0" vlink="#800080" alink="#FF0000" style="background-repeat: no-repeat; background-position:center top; margin: 0">
+
 <?php
 session_start();
 $counter_name = "contador.txt";
@@ -28,8 +30,7 @@ if(!isset($_SESSION['hasVisited'])){
   fwrite($f, $counterVal);
   fclose($f); 
 }?>
-<body background="fondo2.jpg" link="#0070C0" vlink="#800080" alink="#FF0000" style="background-repeat: no-repeat; background-position:center top; margin: 0">
-
+	
   <div align="center">
   
 	<IMG SRC="titulo.png" width="80%" style="max-width:800px; min-width:450px"></IMG><br/>
