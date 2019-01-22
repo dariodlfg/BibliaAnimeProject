@@ -22,14 +22,15 @@ a:visited{
 }
 
 .titulo{
+	width: 80%;
 	text-align: center;
 	margin: 0 auto;
+	max-width: 800px;
+	min-width: 500px;
 }
 
 .titulo img{
-	width: 80%;
-	max-width: 800px;
-	min-width: 450px;
+	width: 100%;
 }
 
 .mainArea{
@@ -59,4 +60,15 @@ a:visited{
 
 .volumen:hover{
 	transform: scale(1.1) rotate(2deg);
+}
+
+@media(max-width: 520px){
+	.titulo{
+		width: 100%;
+		min-width: 0;
+	}
+	.blackBoxArea{
+		width: 100%;
+		min-width: 0;
+	}
 }
