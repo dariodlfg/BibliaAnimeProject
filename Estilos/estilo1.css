@@ -33,6 +33,12 @@ a:visited{
 	width: 100%;
 }
 
+footer{
+	text-align: center;
+	color: #333;
+	margin: 5px 0;
+}
+
 .mainArea{
 	width: 80%;
 	max-width: 1100px;
