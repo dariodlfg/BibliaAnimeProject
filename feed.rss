@@ -4,9 +4,17 @@
     <title>Biblia Anime RSS</title>
     <description>Actualizaciones de contenido de la Biblia Anime</description>
     <link>http://labibliaani.me/index.html</link>
-    <lastBuildDate>Sat, 10 Aug 2019 01:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2019 19:00:00 +0100</lastBuildDate>
     <language>es</language>
  
+    <item>
+        <title>Actualización 29/9/2019</title>
+        <description>Volumen 2 actualizado</description>
+        <link>http://labibliaani.me/Volumen_2.pdf</link>
+        <pubDate>Sun, 29 Sep 2019 19:00:00 +0100</pubDate>
+        <guid>2019_9_29_Act_01</guid>
+    </item>
+
     <item>
         <title>Actualización 10/8/2019</title>
         <description>Volumen 2 actualizado</description>
