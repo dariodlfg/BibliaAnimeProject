@@ -4,8 +4,17 @@
     <title>Biblia Anime RSS</title>
     <description>Actualizaciones de contenido de la Biblia Anime</description>
     <link>http://labibliaani.me/index.html</link>
-    <lastBuildDate>Mon, 01 Apr 2024 00:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 00:30:00 +0200</lastBuildDate>
     <language>es</language>
+	
+    <item>
+        <title>Actualización 25/07/2024</title>
+        <description>Volumen 3 actualizado</description>
+        <link>http://labibliaani.me/Volumenes/Volumen_3.pdf</link>
+        <pubDate>Thu, 25 Jul 2024 00:30:00 +0200</pubDate>
+        <guid>2024_7_25_Act_01</guid>
+    </item>
+
 	
     <item>
         <title>Actualización 28/03/2024</title>
